@@ -1,2 +1,2 @@
 # databricks-studying
-This repo is used for studying
+Hello it's Thuan
